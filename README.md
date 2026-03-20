@@ -37,12 +37,5 @@ shree-sai-electronics/
 - **Phone/WhatsApp:** +91 96892 79986
 - **Email:** shreesai.electronics6@gmail.com
 
-## 🚀 How to Deploy on GitHub Pages
 
-1. Upload all 3 files to a GitHub repository
-2. Go to **Settings → Pages**
-3. Set source to **main branch / root folder**
-4. Your site will be live at: `https://yourusername.github.io/repo-name`
-
----
 © 2025 Shree Sai Electronics. All rights reserved.
